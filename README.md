@@ -19,7 +19,7 @@ Table of contents
 
 # Setup
 ## Setup ruGPT2048
-Code reused from microsoft [realization](https://github.com/microsoft/DeepSpeedExamples/tree/master/Megatron-LM) of Megatron-LM.
+Code reused from microsoft [implementation](https://github.com/microsoft/DeepSpeedExamples/tree/master/Megatron-LM) of Megatron-LM.
 Supports only python3.6.
 
 To use this repo please install the latest supported versions of PyTorch with GPU support. 
